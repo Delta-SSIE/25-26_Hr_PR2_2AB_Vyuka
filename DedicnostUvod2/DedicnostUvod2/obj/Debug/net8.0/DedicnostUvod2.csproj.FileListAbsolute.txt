@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\DedicnostUvod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\DedicnostUvod2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\DedicnostUvod2.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\DedicnostUvod2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\DedicnostUvod2.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\bin\Debug\net8.0\DedicnostUvod2.exe
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\bin\Debug\net8.0\DedicnostUvod2.deps.json
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\bin\Debug\net8.0\DedicnostUvod2.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\bin\Debug\net8.0\DedicnostUvod2.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\bin\Debug\net8.0\DedicnostUvod2.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\DedicnostUvod2.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\refint\DedicnostUvod2.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\DedicnostUvod2.pdb
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\DedicnostUvod2.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\DedicnostUvod2\DedicnostUvod2\obj\Debug\net8.0\ref\DedicnostUvod2.dll

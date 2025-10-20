@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\dedicnostUvod\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67AD7FAD-AFB6-4226-8ADF-BC861BB67DD5}|dedicnostUvod\\dedicnostUvod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\dedicnostuvod\\dedicnostuvod\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67AD7FAD-AFB6-4226-8ADF-BC861BB67DD5}|dedicnostUvod\\dedicnostUvod.csproj|solutionrelative:dedicnostuvod\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{67AD7FAD-AFB6-4226-8ADF-BC861BB67DD5}|dedicnostUvod\\dedicnostUvod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\dedicnostuvod\\dedicnostuvod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67AD7FAD-AFB6-4226-8ADF-BC861BB67DD5}|dedicnostUvod\\dedicnostUvod.csproj|solutionrelative:dedicnostuvod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67AD7FAD-AFB6-4226-8ADF-BC861BB67DD5}|dedicnostUvod\\dedicnostUvod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\dedicnostuvod\\dedicnostuvod\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67AD7FAD-AFB6-4226-8ADF-BC861BB67DD5}|dedicnostUvod\\dedicnostUvod.csproj|solutionrelative:dedicnostuvod\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{67AD7FAD-AFB6-4226-8ADF-BC861BB67DD5}|dedicnostUvod\\dedicnostUvod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\dedicnostuvod\\dedicnostuvod\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67AD7FAD-AFB6-4226-8ADF-BC861BB67DD5}|dedicnostUvod\\dedicnostUvod.csproj|solutionrelative:dedicnostuvod\\ucitel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67AD7FAD-AFB6-4226-8ADF-BC861BB67DD5}|dedicnostUvod\\dedicnostUvod.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\dedicnostuvod\\dedicnostuvod\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Ucitel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\dedicnostUvod\\dedicnostUvod\\Ucitel.cs",
               "RelativeDocumentMoniker": "dedicnostUvod\\Ucitel.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\dedicnostUvod\\dedicnostUvod\\Ucitel.cs",
               "RelativeToolTip": "dedicnostUvod\\Ucitel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T09:03:32.554Z",
               "EditorCaption": ""
@@ -51,12 +51,11 @@
               "RelativeToolTip": "dedicnostUvod\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:03:23.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:03:23.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Osoba.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\dedicnostUvod\\dedicnostUvod\\Osoba.cs",
               "RelativeDocumentMoniker": "dedicnostUvod\\Osoba.cs",
@@ -64,12 +63,11 @@
               "RelativeToolTip": "dedicnostUvod\\Osoba.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T09:03:13.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T09:03:13.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\dedicnostUvod\\dedicnostUvod\\Program.cs",
               "RelativeDocumentMoniker": "dedicnostUvod\\Program.cs",
