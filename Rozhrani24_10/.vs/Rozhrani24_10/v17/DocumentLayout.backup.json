@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\rozhrani24_10\\rozhrani24_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|solutionrelative:rozhrani24_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\rozhrani24_10\\rozhrani24_10\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|solutionrelative:rozhrani24_10\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\rozhrani24_10\\rozhrani24_10\\prostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|solutionrelative:rozhrani24_10\\prostredek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\rozhrani24_10\\rozhrani24_10\\barvicka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|solutionrelative:rozhrani24_10\\barvicka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\rozhrani24_10\\rozhrani24_10\\ipopis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|solutionrelative:rozhrani24_10\\ipopis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\rozhrani24_10\\rozhrani24_10\\idoprava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E880104-B378-484A-A10A-CD865E3BE863}|Rozhrani24_10\\Rozhrani24_10.csproj|solutionrelative:rozhrani24_10\\idoprava.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Barvicka.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\Barvicka.cs",
+              "RelativeDocumentMoniker": "Rozhrani24_10\\Barvicka.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\Barvicka.cs",
+              "RelativeToolTip": "Rozhrani24_10\\Barvicka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:16:53.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prostredek.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\Prostredek.cs",
+              "RelativeDocumentMoniker": "Rozhrani24_10\\Prostredek.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\Prostredek.cs",
+              "RelativeToolTip": "Rozhrani24_10\\Prostredek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:13:45.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPopis.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\IPopis.cs",
+              "RelativeDocumentMoniker": "Rozhrani24_10\\IPopis.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\IPopis.cs",
+              "RelativeToolTip": "Rozhrani24_10\\IPopis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:12:31.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\Auto.cs",
+              "RelativeDocumentMoniker": "Rozhrani24_10\\Auto.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\Auto.cs",
+              "RelativeToolTip": "Rozhrani24_10\\Auto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:07:48.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDoprava.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\IDoprava.cs",
+              "RelativeDocumentMoniker": "Rozhrani24_10\\IDoprava.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\IDoprava.cs",
+              "RelativeToolTip": "Rozhrani24_10\\IDoprava.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:06:46.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\Program.cs",
+              "RelativeDocumentMoniker": "Rozhrani24_10\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Rozhrani24_10\\Rozhrani24_10\\Program.cs",
+              "RelativeToolTip": "Rozhrani24_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T09:06:04.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
