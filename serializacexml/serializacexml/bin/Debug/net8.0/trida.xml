@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Trida xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nazev>3.A</Nazev>
+  <SeznamStudentu>
+    <Student>
+      <Jmeno>Jan</Jmeno>
+      <Prijmeni>Novak</Prijmeni>
+      <Znamky>
+        <int>1</int>
+        <int>2</int>
+        <int>3</int>
+      </Znamky>
+    </Student>
+    <Student>
+      <Jmeno>Petr</Jmeno>
+      <Prijmeni>Svoboda</Prijmeni>
+      <Znamky>
+        <int>3</int>
+        <int>3</int>
+        <int>4</int>
+      </Znamky>
+    </Student>
+  </SeznamStudentu>
+</Trida>

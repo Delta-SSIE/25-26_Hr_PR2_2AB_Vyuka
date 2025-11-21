@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\serializaceJson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADD423-C6D8-4753-9186-3777986F856B}|serializaceJson\\serializaceJson.csproj|c:\\users\\admin\\desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\serializacejson\\serializacejson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADD423-C6D8-4753-9186-3777986F856B}|serializaceJson\\serializaceJson.csproj|solutionrelative:serializacejson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADD423-C6D8-4753-9186-3777986F856B}|serializaceJson\\serializaceJson.csproj|c:\\users\\admin\\desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\serializacejson\\serializacejson\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADD423-C6D8-4753-9186-3777986F856B}|serializaceJson\\serializaceJson.csproj|solutionrelative:serializacejson\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04ADD423-C6D8-4753-9186-3777986F856B}|serializaceJson\\serializaceJson.csproj|c:\\users\\admin\\desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2b\\kody_z_hodin_2b\\serializacejson\\serializacejson\\trida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04ADD423-C6D8-4753-9186-3777986F856B}|serializaceJson\\serializaceJson.csproj|solutionrelative:serializacejson\\trida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\serializaceJson\\serializaceJson\\Program.cs",
+              "RelativeDocumentMoniker": "serializaceJson\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\serializaceJson\\serializaceJson\\Program.cs",
+              "RelativeToolTip": "serializaceJson\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:54:42.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trida.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\serializaceJson\\serializaceJson\\Trida.cs",
+              "RelativeDocumentMoniker": "serializaceJson\\Trida.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\serializaceJson\\serializaceJson\\Trida.cs",
+              "RelativeToolTip": "serializaceJson\\Trida.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:54:40.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\serializaceJson\\serializaceJson\\Student.cs",
+              "RelativeDocumentMoniker": "serializaceJson\\Student.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\24_25\\2.rocnik\\kody_z_hodin_2B\\kody_z_hodin_2B\\serializaceJson\\serializaceJson\\Student.cs",
+              "RelativeToolTip": "serializaceJson\\Student.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:09:33.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
