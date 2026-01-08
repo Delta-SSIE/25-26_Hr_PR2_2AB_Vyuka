@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Pozdrav2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9E45C-4698-47AD-B3AA-C73B42995E97}|Pozdrav2\\Pozdrav2.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\pozdrav2\\pozdrav2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9E45C-4698-47AD-B3AA-C73B42995E97}|Pozdrav2\\Pozdrav2.csproj|solutionrelative:pozdrav2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9E45C-4698-47AD-B3AA-C73B42995E97}|Pozdrav2\\Pozdrav2.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\pozdrav2\\pozdrav2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AC9E45C-4698-47AD-B3AA-C73B42995E97}|Pozdrav2\\Pozdrav2.csproj|solutionrelative:pozdrav2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Pozdrav2\\Pozdrav2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Pozdrav2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Pozdrav2\\Pozdrav2\\MainWindow.xaml",
+              "RelativeToolTip": "Pozdrav2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-05T09:59:22.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Pozdrav2\\Pozdrav2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pozdrav2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\Pozdrav2\\Pozdrav2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Pozdrav2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:59:20.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

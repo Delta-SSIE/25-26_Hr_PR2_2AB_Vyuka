@@ -1,0 +1,16 @@
+﻿<Window x:Class="Pozdrav2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pozdrav2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Zadej jméno:" HorizontalAlignment="Left" Height="36" Margin="138,91,0,0" VerticalAlignment="Top" Width="167"/>
+        <TextBox Name="jmeno" HorizontalAlignment="Left" Margin="236,91,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <Button Name="btnPozdrav" Content="Pozdrav me" HorizontalAlignment="Left" Margin="236,132,0,0" VerticalAlignment="Top" Width="120" Click="btnPozdrav_Click"/>
+        <Label Name="lblPozdrav" Content="" HorizontalAlignment="Left" Margin="149,183,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
