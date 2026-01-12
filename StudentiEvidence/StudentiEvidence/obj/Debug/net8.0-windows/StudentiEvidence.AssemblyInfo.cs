@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Kalkulacka")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("StudentiEvidence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41d55e765f220e8d7f2f3dc6decc24820f71c4bf")]
-[assembly: System.Reflection.AssemblyProductAttribute("Kalkulacka")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Kalkulacka")]
+[assembly: System.Reflection.AssemblyProductAttribute("StudentiEvidence")]
+[assembly: System.Reflection.AssemblyTitleAttribute("StudentiEvidence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
