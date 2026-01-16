@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\EvidenceStudentu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CB2B1-F315-42D4-9CA7-BCB747E290F8}|EvidenceStudentu\\EvidenceStudentu.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\evidencestudentu\\evidencestudentu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CB2B1-F315-42D4-9CA7-BCB747E290F8}|EvidenceStudentu\\EvidenceStudentu.csproj|solutionrelative:evidencestudentu\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CB2B1-F315-42D4-9CA7-BCB747E290F8}|EvidenceStudentu\\EvidenceStudentu.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\evidencestudentu\\evidencestudentu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E59CB2B1-F315-42D4-9CA7-BCB747E290F8}|EvidenceStudentu\\EvidenceStudentu.csproj|solutionrelative:evidencestudentu\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59CB2B1-F315-42D4-9CA7-BCB747E290F8}|EvidenceStudentu\\EvidenceStudentu.csproj|c:\\users\\admin\\desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2ab\\kody_z_hodin_2ab\\25-26_hr_pr2_2ab_vyuka\\evidencestudentu\\evidencestudentu\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59CB2B1-F315-42D4-9CA7-BCB747E290F8}|EvidenceStudentu\\EvidenceStudentu.csproj|solutionrelative:evidencestudentu\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\EvidenceStudentu\\EvidenceStudentu\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EvidenceStudentu\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\EvidenceStudentu\\EvidenceStudentu\\MainWindow.xaml",
+              "RelativeToolTip": "EvidenceStudentu\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-16T09:04:46.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\EvidenceStudentu\\EvidenceStudentu\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EvidenceStudentu\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\EvidenceStudentu\\EvidenceStudentu\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EvidenceStudentu\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:04:42.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\EvidenceStudentu\\EvidenceStudentu\\Student.cs",
+              "RelativeDocumentMoniker": "EvidenceStudentu\\Student.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\EvidenceStudentu\\EvidenceStudentu\\Student.cs",
+              "RelativeToolTip": "EvidenceStudentu\\Student.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:06:21.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
