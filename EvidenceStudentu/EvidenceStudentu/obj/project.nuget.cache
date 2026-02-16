@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "S/ThihBikMU=",
+  "dgSpecHash": "1P1n9O6kdos=",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Desktop\\delta materialy\\_25_26\\2.rocnik\\kody_z_hodin_2AB\\kody_z_hodin_2AB\\25-26_Hr_PR2_2AB_Vyuka\\EvidenceStudentu\\EvidenceStudentu\\EvidenceStudentu.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mahapps.metro\\2.4.11\\mahapps.metro.2.4.11.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
   "logs": []
 }

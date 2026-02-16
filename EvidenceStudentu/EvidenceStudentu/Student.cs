@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace EvidenceStudentu
 {
-    internal class Student
+    public class Student
     {
        static int pocet = 1;
         int id;
@@ -19,25 +20,16 @@ namespace EvidenceStudentu
         public string Jmeno { get => jmeno; set => jmeno = value; }
         public int Id { get => id; set => id = value; }
 
-        public Student (string jm, string pr, int v)
+      
+        public Student(string jmeno, string prijmeni, int vek)
         {
-            if ((jm == "") || (pr == "") || (v == null))
-            {
-                id = pocet;
-                pocet++;
-                jmeno = "prazdne jmeno";
-                prijmeni = "prazdne prijmeni";
-                vek = 0;
-            }
-            else
-            {
-                id = pocet;
-                pocet++;
-                jmeno = jm;
-                prijmeni = pr;
-                vek = v;
-            }
+            this.id= pocet;
+            Jmeno = jmeno;
+            Prijmeni = prijmeni;
+            Vek = vek;
+            pocet++;
         }
+       
 
         public override string ToString()
         {

@@ -19,3 +19,10 @@ C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_h
 C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\obj\Debug\net8.0-windows\EvidenceStudentu.pdb
 C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\obj\Debug\net8.0-windows\EvidenceStudentu.genruntimeconfig.cache
 C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\obj\Debug\net8.0-windows\ref\EvidenceStudentu.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\obj\Debug\net8.0-windows\EvidenceStudentu.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\obj\Debug\net8.0-windows\Evidence.DBFE5699.Up2Date
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\obj\Debug\net8.0-windows\App.baml
