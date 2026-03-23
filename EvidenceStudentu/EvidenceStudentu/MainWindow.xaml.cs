@@ -31,58 +31,36 @@ namespace EvidenceStudentu
         {
             InitializeComponent();
             Database_Loaded();
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            string j, p;
-            int v;
-            j = txtjmeno.Text;
-            p = txtprijmeni.Text;
-            v = int.Parse(txtvek.Text);
-            Student s = new Student(j, p, v);
+            PridatStudenta okno = new PridatStudenta(this);
+            okno.ShowDialog();
 
-            seznamStudentu.Add(s);
-            var items = seznamStudentu;
-            lstbox.ItemsSource = null;
-            lstbox.ItemsSource = items;
-
-            //txbZobrazeni.Text = s.ToString();
         }
 
         private void lstboxChanged(object sender, SelectionChangedEventArgs e)
         {
             var selected = lstbox.SelectedItem as Student;
+            if (selected == null) return;
 
-            if (selected != null)
+            List<string> znamky = ZnamkyStudenta(selected.Id);
+
+            if (znamky.Count == 0)
             {
-                txtjmeno.Text = selected.Jmeno;
-                txtprijmeni.Text = selected.Prijmeni;
-                txtvek.Text = selected.Vek.ToString();
-
-                List<string> znamky = ZnamkyStudenta(selected.Id);
-
-                string vypis = string.Join(", ", znamky);
-
-                MessageBox.Show($"Známky studenta {selected.Jmeno} {selected.Prijmeni}: {vypis}");
+                MessageBox.Show("Student nemá žádné známky.");
             }
-
-
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            if (lstbox.SelectedItem is Student vybrany)
+            else
             {
-                vybrany.Jmeno = txtjmeno.Text;
-                vybrany.Prijmeni = txtprijmeni.Text;
-                vybrany.Vek = int.Parse(txtvek.Text);
-
-                // refresh ListBoxu
-                lstbox.ItemsSource = null;
-                lstbox.ItemsSource = seznamStudentu;
+                string text = string.Join(", ", znamky);
+                MessageBox.Show($"Známky studenta:\n{text}");
             }
         }
+        
+
+       
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
@@ -126,6 +104,7 @@ namespace EvidenceStudentu
         }
         public void StudentiDatabaze()
         {
+            seznamStudentu.Clear();
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
                 conn.Open();
@@ -148,7 +127,9 @@ namespace EvidenceStudentu
                         seznamStudentu.Add(s);
                     }  
                 }
-            }  
+            }
+            lstbox.ItemsSource = null;
+            lstbox.ItemsSource = seznamStudentu;
         }
         public void PridatStudenta(string jmeno, string prijmeni, int vek)
         {
@@ -194,6 +175,17 @@ namespace EvidenceStudentu
 
             return znamky;
         }
+        public void aktualizaceStranky()
+        {
+            lstbox.ItemsSource = null;
+            lstbox.ItemsSource = seznamStudentu;
+        }
+
+        public void pridejStudentaDoListu(Student s)
+        {
+            seznamStudentu.Add(s);
+        }
 
     }
+  
 }

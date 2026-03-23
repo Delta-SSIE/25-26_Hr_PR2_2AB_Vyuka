@@ -68,23 +68,11 @@
                 <!-- leva cast s formularem a tlacitky -->
                 <StackPanel Grid.Column="0"
                             Margin="0,0,30,0">
-
-                    <TextBlock Text="Jméno"/>
-                    <TextBox Name="txtjmeno" Margin="0,5,0,15"/>
-
-                    <TextBlock Text="Příjmení"/>
-                    <TextBox Name="txtprijmeni" Margin="0,5,0,15"/>
-
-                    <TextBlock Text="Věk"/>
-                    <TextBox Name="txtvek" Margin="0,5,0,20"/>
                     <Button x:Name="btnPridejStudenta"
                             Content="Přidat studenta"
                             Margin="10"
                             
                             Click="Button_Click" Width="160"/>
-                    <Button Content="Upravit" Margin="10"
-                            
-                            Click="Button_Click_1" Width="159"/>
                     <Button 
                             Click="Button_Click_2" Width="159" Margin="10">
                         <StackPanel Orientation="Horizontal"

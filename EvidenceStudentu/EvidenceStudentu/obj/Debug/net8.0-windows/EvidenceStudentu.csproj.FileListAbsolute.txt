@@ -39,3 +39,5 @@ C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_h
 C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
 C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\obj\Debug\net8.0-windows\PridatStudenta.g.cs
+C:\Users\admin\Desktop\delta materialy\_25_26\2.rocnik\kody_z_hodin_2AB\kody_z_hodin_2AB\25-26_Hr_PR2_2AB_Vyuka\EvidenceStudentu\EvidenceStudentu\obj\Debug\net8.0-windows\PridatStudenta.baml
